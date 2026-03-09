@@ -1,6 +1,27 @@
 # SQL-50-Leetcode
-A collection of LeetCode questions to ace the coding interview! - Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 
+This repository contains my solutions to the **Top 50 SQL Leetcode Questions** from the LeetCode **SQL Study Plan**.
+
+The goal of this repository is to strengthen **SQL fundamentals** and practice **database querying**.
+
+---
+
+## 🚀 Topics Covered
+
+The SQL problems cover a wide range of important database concepts:
+
+* SELECT statements
+* Filtering with WHERE
+* Aggregate Functions (COUNT, SUM, AVG, MAX, MIN)
+* GROUP BY & HAVING
+* Joins (INNER JOIN, LEFT JOIN, SELF JOIN)
+* Subqueries
+* Window Functions
+* CASE statements
+* Date Functions
+* Ranking & Analytics Queries
+
+---
 <!---LeetCode Topics Start-->
 # LeetCode Topics
 ## Database

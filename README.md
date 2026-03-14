@@ -77,4 +77,12 @@ The SQL problems cover a wide range of important database concepts:
 | [1934-confirmation-rate](https://github.com/VishakhaKolhe23/SQL-50-Leetcode/tree/master/1934-confirmation-rate) |
 | [1978-employees-whose-manager-left-the-company](https://github.com/VishakhaKolhe23/SQL-50-Leetcode/tree/master/1978-employees-whose-manager-left-the-company) |
 | [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/VishakhaKolhe23/SQL-50-Leetcode/tree/master/2356-number-of-unique-subjects-taught-by-each-teacher) |
+## Array
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/VishakhaKolhe23/SQL-50-Leetcode/tree/master/0001-two-sum) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/VishakhaKolhe23/SQL-50-Leetcode/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->

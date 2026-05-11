@@ -82,6 +82,7 @@ The SQL problems cover a wide range of important database concepts:
 | ------- |
 | [0001-two-sum](https://github.com/VishakhaKolhe23/SQL-50-Leetcode/tree/master/0001-two-sum) |
 | [0268-missing-number](https://github.com/VishakhaKolhe23/SQL-50-Leetcode/tree/master/0268-missing-number) |
+| [0300-longest-increasing-subsequence](https://github.com/VishakhaKolhe23/SQL-50-Leetcode/tree/master/0300-longest-increasing-subsequence) |
 ## Hash Table
 |  |
 | ------- |
@@ -95,6 +96,7 @@ The SQL problems cover a wide range of important database concepts:
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/VishakhaKolhe23/SQL-50-Leetcode/tree/master/0268-missing-number) |
+| [0300-longest-increasing-subsequence](https://github.com/VishakhaKolhe23/SQL-50-Leetcode/tree/master/0300-longest-increasing-subsequence) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -103,4 +105,8 @@ The SQL problems cover a wide range of important database concepts:
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/VishakhaKolhe23/SQL-50-Leetcode/tree/master/0268-missing-number) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0300-longest-increasing-subsequence](https://github.com/VishakhaKolhe23/SQL-50-Leetcode/tree/master/0300-longest-increasing-subsequence) |
 <!---LeetCode Topics End-->

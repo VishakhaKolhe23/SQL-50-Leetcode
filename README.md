@@ -85,6 +85,7 @@ The SQL problems cover a wide range of important database concepts:
 | [0136-single-number](https://github.com/VishakhaKolhe23/SQL-50-Leetcode/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/VishakhaKolhe23/SQL-50-Leetcode/tree/master/0268-missing-number) |
 | [0300-longest-increasing-subsequence](https://github.com/VishakhaKolhe23/SQL-50-Leetcode/tree/master/0300-longest-increasing-subsequence) |
+| [0704-binary-search](https://github.com/VishakhaKolhe23/SQL-50-Leetcode/tree/master/0704-binary-search) |
 ## Hash Table
 |  |
 | ------- |
@@ -100,6 +101,7 @@ The SQL problems cover a wide range of important database concepts:
 | ------- |
 | [0268-missing-number](https://github.com/VishakhaKolhe23/SQL-50-Leetcode/tree/master/0268-missing-number) |
 | [0300-longest-increasing-subsequence](https://github.com/VishakhaKolhe23/SQL-50-Leetcode/tree/master/0300-longest-increasing-subsequence) |
+| [0704-binary-search](https://github.com/VishakhaKolhe23/SQL-50-Leetcode/tree/master/0704-binary-search) |
 ## Bit Manipulation
 |  |
 | ------- |

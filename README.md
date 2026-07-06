@@ -95,10 +95,12 @@ The SQL problems cover a wide range of important database concepts:
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/VishakhaKolhe23/SQL-50-Leetcode/tree/master/0009-palindrome-number) |
+| [0069-sqrtx](https://github.com/VishakhaKolhe23/SQL-50-Leetcode/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/VishakhaKolhe23/SQL-50-Leetcode/tree/master/0268-missing-number) |
 ## Binary Search
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/VishakhaKolhe23/SQL-50-Leetcode/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/VishakhaKolhe23/SQL-50-Leetcode/tree/master/0268-missing-number) |
 | [0300-longest-increasing-subsequence](https://github.com/VishakhaKolhe23/SQL-50-Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0704-binary-search](https://github.com/VishakhaKolhe23/SQL-50-Leetcode/tree/master/0704-binary-search) |
